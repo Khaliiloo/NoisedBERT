@@ -1,5 +1,5 @@
 # Deveoped by Khalil Abdulgawad
-# For my research paper that will be published in Springer Nature
+# For my research paper that will be published.
 
 import pandas as pd
 from transformers import BertForSequenceClassification, BertTokenizer, AdamW
