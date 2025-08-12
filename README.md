@@ -1,2 +1,2 @@
 # NoisedBERT
-Showing Find the effect of noised data on BERT
+Showing the effect of noised data on BERT
